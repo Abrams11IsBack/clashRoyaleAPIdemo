@@ -3,7 +3,7 @@ import json
 
 print("Function 1: Chest tracker")
 print("Function 2: Battle log (JSON)")
-print("Function 3: Informacje.")
+print("Function 3: Player info")
 wybor = input("Selection: (1 - 3): ")
 print(wybor)
 
